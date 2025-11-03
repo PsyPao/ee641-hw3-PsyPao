@@ -1,1 +1,2 @@
-# ee641-hw3-PsyPao
+Shaoyu Pei
+shaoyupe@usc.edu

@@ -1,0 +1,50 @@
+{
+  "encoder": {
+    "layer_0": {
+      "head_0": {
+        "diagonal_attention": 0.26259517576545804,
+        "entropy": 0.47492021322250366,
+        "operator_attention": 0.29659431636333466
+      },
+      "head_1": {
+        "diagonal_attention": 0.07734812380810142,
+        "entropy": 0.663220226764679,
+        "operator_attention": 0.1587603919627145
+      },
+      "head_2": {
+        "diagonal_attention": 0.702149162613322,
+        "entropy": 0.05296778678894043,
+        "operator_attention": 0.14141582190990448
+      },
+      "head_3": {
+        "diagonal_attention": 0.04556267096527985,
+        "entropy": 0.4681016206741333,
+        "operator_attention": 0.2838576349406503
+      }
+    },
+    "layer_1": {
+      "head_0": {
+        "diagonal_attention": 0.6550535099813715,
+        "entropy": 0.194826140999794,
+        "operator_attention": 0.012958750113589303
+      },
+      "head_1": {
+        "diagonal_attention": 0.3997239542326757,
+        "entropy": 0.5452714562416077,
+        "operator_attention": 0.016269652490736915
+      },
+      "head_2": {
+        "diagonal_attention": 0.14393555397961114,
+        "entropy": 0.09286654740571976,
+        "operator_attention": 0.38527374193072317
+      },
+      "head_3": {
+        "diagonal_attention": 0.4205060852691531,
+        "entropy": 0.46310582756996155,
+        "operator_attention": 0.04716643301973818
+      }
+    }
+  },
+  "decoder_self": {},
+  "decoder_cross": {}
+}
